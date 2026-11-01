@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "tests": 79,
+  "failures": 0,
+  "errors": 0,
+  "recorded_at": "2026-11-01T02:43:54.680795+00:00",
+  "backend_tests": 71,
+  "frontend_tests": 8,
+  "description": "Pytest full suite and Vitest navigation/workflow suite. Test fixtures do not replace actual live data."
+}
